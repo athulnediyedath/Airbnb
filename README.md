@@ -1,4 +1,4 @@
-<h1 align="center">This is a tableau powered Airbnb project</h1>
+<h2 align="center">This is a tableau powered Airbnb project</h2>
 
 ## Getting Started
 
